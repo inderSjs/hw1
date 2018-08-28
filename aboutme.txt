@@ -1,0 +1,12 @@
+Your name: Inderpreet Singh
+Your student ID: 011551488
+Your major: Software engineering
+Your preferred email address: inderpreet.singh@sjsu.edu
+Check one: Undergraduate
+Repeating the class: No
+Place and semester where you took a programming course in java: SJSU fall 2017 
+Course number and grade received: CS46B A
+Place and  semester where you took a course in data structures: SJSU spring 2018
+Course number and grade received: CS146 B+
+Time it took you to answer the two questions: 4 hours
+Did you ask for help? only for uploading to github.
